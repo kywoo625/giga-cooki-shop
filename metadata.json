@@ -1,0 +1,6 @@
+{
+  "name": "다했니 쿠키교환소",
+  "description": "다했니 Open API 연동 및 학생들의 실시간 학급 상점 쿠키 교환 관리와 승인 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
